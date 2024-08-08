@@ -1,4 +1,4 @@
-sequence{<3>}>input data{true}
+sequence{}>input data{true}
 {1}Hello
 {2}Hello World!
 {3}Hello World! you can exit now
