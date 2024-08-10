@@ -1,2 +1,3 @@
-{sequence}+{index=5}+{loop=false}
-{input1 = print<"Hello World">}
+{sequence-p = <index=5>-<loop=false>}
+{delay=1}-{input1 = print<"Hello">}
+{delay=1}-{input2 = print<"World">}
