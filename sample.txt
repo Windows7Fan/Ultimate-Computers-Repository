@@ -1,4 +1,2 @@
-sequence{}>input data{true}
-{1}Hello
-{2}Hello World!
-{3}Hello World! you can exit now
+{sequence}+{index=5}+{loop=false}
+{input1 = print<"Hello World">}
