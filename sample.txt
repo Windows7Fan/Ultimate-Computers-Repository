@@ -1,4 +1,3 @@
-sequence>inputs>5
 sequence>shift>delay>0.5
 sequence>loop>1
 
