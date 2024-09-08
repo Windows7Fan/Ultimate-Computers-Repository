@@ -1,10 +1,4 @@
-sequence>shift>delay>0.5
-sequence>loop>1
-
-#inputs
-
-sequence>input1>print>Hello
-sequence>input2>print>Hello World
-sequence>input3>print>This is Testing Program
-sequence>input4>print>Hello User 1
-sequence>input5>print>end of program
+print>"Hello"
+{wait>"1"}
+print>"Hello World!"
+{wait>"1"}
