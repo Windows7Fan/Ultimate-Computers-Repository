@@ -2,3 +2,4 @@ print "Hello"
 delay(1)
 print "Hello World!"
 delay(1)
+run
