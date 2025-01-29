@@ -1,4 +1,4 @@
-print>"Hello"
-{wait>"1"}
-print>"Hello World!"
-{wait>"1"}
+print "Hello"
+delay(1)
+print "Hello World!"
+delay(1)
