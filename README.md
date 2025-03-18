@@ -32,10 +32,9 @@ repository.</h3>
 
 <h1>For using inputs:</h1>
 
-<h3>TextInput = script.inputs.a:Getstate()
-Enter = script.inputs.b:Getstate()
-Up = script.inputs.c:Getstate()
-Down = script.inputs.d:Getstate()
-Left = script.inputs.e:Getstate()
-Right = script.inputs.f:Getstate()
-</h3>
+<h3>TextInput = script.inputs.a:Getstate()</h3>
+<h3>Enter = script.inputs.b:Getstate()</h3>
+<h3>Up = script.inputs.c:Getstate()</h3>
+<h3>Down = script.inputs.d:Getstate()</h3>
+<h3>Left = script.inputs.e:Getstate()</h3>
+<h3>Right = script.inputs.f:Getstate()</h3>
